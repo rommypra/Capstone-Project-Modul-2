@@ -5,7 +5,7 @@ Sebuah perusahaan bergerak di bidang software dan cloud services ingin melakukan
 ### Problem Statement
 Perusahaan ingin tau produk software dan cloud services mana yang layak dilakukan R&D dari sisi bisnis. Di mana biaya R&D harus menghasilkan ROI yang tinggi. Informasi ini akan membantu perusahaan menentukan mana produk software dan cloud services meningkat revenue topline dan profit.
 
-Sebagai seorang dara analyst kita akan menjawab pertanyaan berikut:
+Sebagai seorang data analyst kita akan menjawab pertanyaan berikut:
 **Apa rekomendasi produk software dan cloud services yang paling menguntungkan dari parameter bisnis untuk dilakukan R&D?**
 
 ### Dataset
