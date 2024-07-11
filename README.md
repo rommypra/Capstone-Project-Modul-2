@@ -10,3 +10,24 @@ Sebagai seorang data analyst kita akan menjawab pertanyaan berikut:
 
 ### Dataset
 Untuk menjawab pertanyaan tersebut kita akan melakukan analisa data dan menggunakan library yang sesuai. Dataset yang digunakan dapat diakses [di sini](https://drive.google.com/drive/folders/1dlpJfgvs8P_IyXqWB4WrNwk91fx0XAzU?usp=sharing).
+
+Dataset berisi informasi penjualan software dan cloud services selama periode 2020-2023. Terdapat 19 kolom dalam dataset SaaS Sales:
+1. Row ID: id unik tiap transaksi
+2. Order ID: id unik tiap order
+3. Order Date: tanggal pemesanan
+4. Date Key: nomor yang merepresentasikan tanggal pesanan (DDMMYYYY)
+5. Contact Name: identitas pemesan
+6. Country: negara asal pemesan
+7. City: kota asal pemesan
+8. Region: regional asal pemesan
+9. Subregion: subregional asal pemesan
+10. Customer: nama perusahaan pemesan
+11. Customer ID: id unik pemesan
+12. Industry: tipe industri perusahaan pemesan
+13. Segment: tipe industri perusahaan pemesan (SMB, Strategic, Enterprise, dll)
+14. Product: produk yang dipesan
+15. License: lisensi produk yang dipesan
+16. Sales: total penjualan
+17. Quantity: total transaksi
+18. Discount: discount dari transaksi
+19. Profit: profit dari transaksi
